@@ -1,0 +1,14 @@
+
+.a-b{
+ text-align:center;
+ overflow:hidden;
+
+}
+.a-b>div{width:31%;/*整体宽度99*/
+padding-bottom:31%;
+margin:1%;
+border-radius:10%;
+background-color:orange;
+float:left;/*右浮动*/
+
+}
